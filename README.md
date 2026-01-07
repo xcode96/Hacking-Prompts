@@ -139,14 +139,3 @@ You can use this project to:
   * AI red-team research site
 
 ---
-
-## 🚀 If You Want, I Can Help You With:
-
-✅ Writing a **professional README.md**
-✅ Making a **safe & legal disclaimer**
-✅ Converting this into a **public website**
-✅ Improving the UI (dark mode, filters, tags)
-✅ Creating **defensive prompt security examples**
-✅ Making it ATS / portfolio friendly
-
-Just tell me what you want to do next 👌
