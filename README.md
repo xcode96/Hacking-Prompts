@@ -1,32 +1,152 @@
 
 
-### 📌 What the Repository Is Likely About
+👉 **`xcode96/Hacking-Prompts`**
 
-Based on the name **“Hacking-Prompts”** and common usage of similar GitHub projects, it probably contains:
+This project is essentially a **collection of AI prompts**, mainly focused on:
 
-✅ A **collection of AI/ChatGPT prompt examples** for hacking-related topics or cybersecurity concepts
-✔ prompts designed to guide AI into answering hacking, security,--oriented questions
-✔ organized examples demonstrating how to craft effective developmental or red-teaming prompts
+* 🚨 **Jailbreak prompts**
+* 🧠 Advanced system-role prompts
+* 🛠 Prompt engineering techniques
+* 🔓 Prompt security & bypass research (educational / research-focused)
 
-These kinds of repos often serve as **prompt libraries**—similar to prompt-collections or prompt-hacker repositories seen on GitHub topics like `prompt-injection`, `prompts`, or `ai-prompts`. ([GitHub][3])
+### 1️⃣ Prompt Vault (Top Left)
+
+**“Prompt Vault”** is the name of the interface.
+
+Tagline:
+
+> *Color-coded prompts. Minimalist design. Zero tracking.*
+
+This suggests:
+
+* Clean UI
+* No analytics / tracking
+* Likely static (HTML + JS)
 
 ---
 
-### 📝 If You Need the README Text
+### 2️⃣ Search Bar
 
-Copying and pasting the *raw* contents of the README (once accessible) here is totally fine — I can then:
+🔍 **“Search prompts by name or description…”**
 
-✔ Summarize it
-✔ Explain each section
-✔ Help rewrite it professionally
-✔ Help improve or extend it
+Allows you to:
 
-Just share the raw text itself.
+* Search prompt files (`.md`)
+* Filter by prompt name or purpose
 
 ---
 
-Let me know if you want help navigating GitHub pages or fetching a *public* version of the README!
+### 3️⃣ Prompt Counter
 
-[1]: https://github.com/xcode96/Hacking-Prompts/edit/main/README.md "Sign in to GitHub · GitHub"
-[2]: https://github.com/xcode96?utm_source=chatgpt.com "Manibharathi P xcode96 - GitHub"
-[3]: https://github.com/topics/prompt-injection?utm_source=chatgpt.com "prompt-injection · GitHub Topics"
+> **Showing 146 of 292 prompts**
+
+This means:
+
+* Total prompts: **292**
+* Currently filtered view: **146**
+* The repo is **large and actively curated**
+
+---
+
+### 4️⃣ Prompt Cards (Main Content)
+
+Each card represents a **Markdown prompt file**, for example:
+
+| File Name     | Description      |
+| ------------- | ---------------- |
+| `AGI.md`      | Jailbreak prompt |
+| `Apex.md`     | Jailbreak prompt |
+| `BOB.md`      | Jailbreak prompt |
+| `CodeGPT6.md` | Jailbreak prompt |
+| `Complex.md`  | Jailbreak prompt |
+
+Each card shows:
+
+* 📄 File name
+* 🚨 Red warning text: **“This is a jailbreak prompt.”**
+* 🔴 Tag: `Jailbreak`
+
+➡️ This clearly labels **high-risk / restricted prompts**.
+
+---
+
+### 5️⃣ Right-Side Category Menu
+
+The floating sidebar shows **prompt categories**:
+
+* 📦 **All Prompts**
+* 🧨 **Latest Jailbreaks**
+* 🕵️ **Legendary Leaks**
+* 📖 **Grimoire**
+* ⚡ **My Super Prompts**
+* 🛡 **Prompt Security**
+* 🔥 **Ultra Prompts** (partially visible)
+
+This tells us the repo is **well-organized** and not random.
+
+---
+
+## 🧠 What This Repository Is Really For
+
+### ✅ Legitimate Uses
+
+* Prompt engineering research
+* AI safety & red-team learning
+* Understanding **how jailbreak prompts work**
+* Studying **prompt injection & LLM weaknesses**
+* Educational cybersecurity content
+
+### ⚠️ Important Note
+
+Many prompts are labeled **“jailbreak”**, meaning:
+
+* They attempt to bypass AI safeguards
+* Should be used **only for learning, research, or defensive security**
+* Not recommended for misuse
+
+---
+
+## 🛠 Tech Stack (Very Likely)
+
+Based on the UI:
+
+* HTML
+* CSS (modern card-based layout)
+* JavaScript (search & filtering)
+* Markdown (`.md`) as prompt storage
+* Possibly hosted via **GitHub Pages**
+
+---
+
+## 🔥 How This Helps *You* (Based on Your Background)
+
+Since you are:
+
+* A **cybersecurity student**
+* Interested in **red teaming**
+* Working with **prompt security & AI**
+
+You can use this project to:
+
+* Learn **prompt injection techniques**
+* Build your **own prompt vault**
+* Create a **Prompt Security Lab**
+* Add it as a **portfolio project**
+* Convert it into:
+
+  * LMS content
+  * Security awareness demos
+  * AI red-team research site
+
+---
+
+## 🚀 If You Want, I Can Help You With:
+
+✅ Writing a **professional README.md**
+✅ Making a **safe & legal disclaimer**
+✅ Converting this into a **public website**
+✅ Improving the UI (dark mode, filters, tags)
+✅ Creating **defensive prompt security examples**
+✅ Making it ATS / portfolio friendly
+
+Just tell me what you want to do next 👌
