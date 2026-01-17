@@ -134,8 +134,3 @@ You can use this project to:
 * Add it as a **portfolio project**
 * Convert it into:
 
-  * LMS content
-  * Security awareness demos
-  * AI red-team research site
-
----
