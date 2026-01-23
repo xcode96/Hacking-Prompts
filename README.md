@@ -118,7 +118,6 @@ Based on the UI:
 
 ---
 
-## 🔥 How This Helps *You* (Based on Your Background)
 
 Since you are:
 
